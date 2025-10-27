@@ -28,6 +28,27 @@ Das *Bedienbiachle* ist unser schwäbisch geprägtes „Büchlein“ – eine li
 > 🥨 „Biachle“ ist Schwäbisch für „Büchlein“ – und steht hier für unsere charmante Sammlung an Wissen und Orientierungshilfen.
 
 
+## 🚀 Wie kann ich mitmachen?
+
+Wir freuen uns über Beiträge aus der Community! Egal ob Code, Dokumentation oder Ideen – jede Unterstützung zählt.
+
+### So geht’s:
+1. Forke das Repository.
+2. Erstelle deinen Branch (`git checkout -b mein-beitrag`).
+3. Nimm deine Änderungen vor.
+4. Committe mit `Signed-off-by`-Zeile:
+   ```bash
+   git commit -s -m "Meine Änderung"
+   ```
+   Das `-s` fügt automatisch hinzu:
+   ```
+   Signed-off-by: Dein Name <deine.email@example.com>
+   ```
+5. Stelle einen Pull Request.
+
+Mit dem `Signed-off-by` bestätigst du, dass du berechtigt bist, den Beitrag unter der Projektlizenz einzureichen (siehe [Developer Certificate of Origin](https://developercertificate.org)).
+
+
 ## 📞 Kontakt
 
 Für weitere Informationen und Unterstützung wenden Sie sich bitte an:
