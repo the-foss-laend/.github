@@ -80,3 +80,22 @@ Für weitere Informationen und Unterstützung wenden Sie sich bitte an:
 
 
 Lassen Sie uns gemeinsam die Zukunft der Automobilsoftware gestalten. Sprechen Sie uns an und werden Sie Teil unserer FOSS-LÄND Community!
+
+## 🚧 Coming Soon
+
+### 🧰 ToolKit
+Tools und Infrastruktur für den professionellen Einsatz von Open Source Software in der Automobilindustrie 
+
+### 📜 PolicyHub
+Vorlagen und Hinweise zu rechtlichen Rahmenbedingungen wie CRA, DCO und Lizenzierung 
+
+### 📘 PracticeBook
+Erfahrungen, Best Practices und How-Tos aus der FOSS-LÄND Community für den praktischen Einsatz 
+
+### 🤝 Mitmach-Biachle
+Formate zur Mitwirkung, Peer-Learning und Community-Unterstützung – für Einsteiger:innen und Fortgeschrittene
+### 📄 DocTemplates
+Vorlagen für Dokumentation, READMEs, CONTRIBUTING und Policies zur Unterstützung kollaborativer Projekte
+
+### 📖 Glossar
+Zentrales Nachschlagewerk für Begriffe rund um Open Source, speziell im Kontext der Automobilindustrie
