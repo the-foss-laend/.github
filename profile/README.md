@@ -99,3 +99,8 @@ Vorlagen für Dokumentation, READMEs, CONTRIBUTING und Policies zur Unterstützu
 
 ### 📖 Glossar
 Zentrales Nachschlagewerk für Begriffe rund um Open Source, speziell im Kontext der Automobilindustrie
+
+
+### 📅 Kalenderle
+Hier finden Sie aktuelle Termine für Workshops, Meetups und Konferenzen rund um FOSS und Automotive Software in Baden-Württemberg.
+
