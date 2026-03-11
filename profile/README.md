@@ -2,7 +2,9 @@
 
 Willkommen im GitHub-Repository der FOSS-LÄND Community! Wir haben uns zum Ziel gesetzt, die Entwicklung von Automobilsoftware durch Zusammenarbeit und Innovation voranzutreiben.
 
-Unsere in Baden-Württemberg ansässige Initiative „Automotive Software Collaboration BW“ unterstützt Unternehmen dabei, sich an der Open-Source-Zusammenarbeit im Bereich der Automobilsoftware zu beteiligen und diese mitzugestalten. Alle Unternehmen sind herzlich eingeladen, sich anzuschließen und einen Beitrag zu leisten. Unser Fokus liegt auf der gemeinsamen Entwicklung von Softwarelösungen, um Entwicklungszeiten zu verkürzen, Kosten zu senken und die Softwarequalität zu verbessern. Darüber hinaus fördern wir Synergien zwischen Branchenführern und Forschungseinrichtungen, um die Entwicklung und Implementierung modernster Automobilsoftware voranzutreiben. Besonderes Augenmerk legen wir dabei auf freie und quelloffene Software (FOSS).
+Unsere in Baden‑Württemberg ansässige Initiative „Automotive Software Collaboration BW“ unterstützt Unternehmen dabei, sich an der Open‑Source‑Zusammenarbeit im Bereich der Automobilsoftware zu beteiligen und diese aktiv mitzugestalten. Auch Organisationen und Entwickler*innen außerhalb des Automobilsektors sind ausdrücklich willkommen – denn viele Prinzipien, Werkzeuge und Best Practices von FOSS wirken domänenübergreifend.
+
+Alle Unternehmen sind herzlich eingeladen, sich anzuschließen und einen Beitrag zu leisten. Unser Fokus liegt auf der gemeinsamen Entwicklung von Softwarelösungen, um Entwicklungszeiten zu verkürzen, Kosten zu senken und die Softwarequalität zu verbessern. Darüber hinaus fördern wir Synergien zwischen Branchenführern, Forschungseinrichtungen und weiteren Interessierten, um die Entwicklung und Implementierung moderner Software voranzutreiben. Besonderes Augenmerk legen wir dabei auf freie und quelloffene Software (FOSS).
 
 👉 Weitere Informationen: [https://www.foss.e-mobilbw.de](https://www.foss.e-mobilbw.de)
 
