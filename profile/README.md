@@ -8,11 +8,15 @@ Alle Unternehmen sind herzlich eingeladen, sich anzuschließen und einen Beitrag
 
 👉 Weitere Informationen: [https://www.foss.e-mobilbw.de](https://www.foss.e-mobilbw.de)
 
-## ℹ️ Über die e-mobil BW GmbH
+> ℹ️ **Hinweis zum Datenschutz**
+> Dieses GitHub‑Repository wird von der e‑mobil BW GmbH betrieben.  
+> Bei der Nutzung und Mitwirkung (z. B. Issues, Pull Requests) können personenbezogene Daten verarbeitet werden.  
+> Weitere Informationen finden Sie im Abschnitt „Rechtliche Hinweise“ am Ende dieser Seite.
+
+## 🏛️ Über die e-mobil BW GmbH
 Die Initiative wird von der e-mobil BW GmbH koordiniert. Sie ist die zentrale Innovationsagentur des Landes Baden-Württemberg mit dem Fokus auf neue Mobilitätslösungen und Fortschritte in der Fahrzeugtechnik.
 
 👉 Mehr erfahren: [https://www.e-mobilbw.de](https://www.e-mobilbw.de)
-
 
 ## 🤝 Unterstützung durch uns
 Die FOSS-LÄND-Community bietet Ihnen Zugang zu einem starken Netzwerk, Expertenwissen und einer Reihe praktischer Unterstützungsleistungen:
@@ -106,3 +110,14 @@ Zentrales Nachschlagewerk für Begriffe rund um Open Source, speziell im Kontext
 ### 📅 Kalenderle
 Hier finden Sie aktuelle Termine für Workshops, Meetups und Konferenzen rund um FOSS und Automotive Software in Baden-Württemberg.
 
+
+## 🔐 Rechtliche Hinweise
+
+- **Impressum:**  
+  https://www.e-mobilbw.de/impressum
+
+- **Datenschutzerklärung:**  
+  https://www.e-mobilbw.de/datenschutz
+
+Bitte beachten Sie, dass diese GitHub-Organisation auf GitHub betrieben wird, einem Dienst der GitHub, Inc. / Microsoft Corp.  
+Beiträge und Interaktionen auf dieser Plattform unterliegen daher zusätzlich der Datenschutzerklärung von GitHub sowie der Datenschutzerklärung der e-mobil BW GmbH
