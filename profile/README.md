@@ -20,11 +20,9 @@ Die Initiative wird von der e-mobil BW GmbH koordiniert. Sie ist die zentrale In
 
 ## 🤝 Unterstützung durch uns
 Die FOSS-LÄND-Community bietet Ihnen Zugang zu einem starken Netzwerk, Expertenwissen und einer Reihe praktischer Unterstützungsleistungen:
-- Beratungsleistungen und Gutscheine, die bis zu 80 % der förderfähigen Kosten abdecken
+- Fachimpulse und Networkingevents
 - Ressourcen zum Wissenstransfer für Einsteiger und Fortgeschrittene
 - Unterstützung bei der Implementierung und Nutzung von FOSS in Ihrem Unternehmen
-
-👉 Beantragen Sie einen Beratungsgutschein: [https://www.transformationswissen-bw.de/beratung/beratungsgutschein](https://www.transformationswissen-bw.de/beratung/beratungsgutschein)
 
 
 ## 📘 Bedienbiachle – unsere Linksammlung
